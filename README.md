@@ -70,7 +70,8 @@
 - [Striker](https://github.com/s0md3v/Striker)
 - [SecretFinder (like API & etc)](https://github.com/m4ll0k/SecretFinder)
 - [Find Info Using Shodan](https://github.com/m4ll0k/Shodanfy.py)
-- [Port Scanner - rang3r](https://github.com/floriankunushevci/rang3r)
+- [Port Scanner - rang3r (Python 2.7)](https://github.com/floriankunushevci/rang3r)
+- [Port Scanner - Ranger Reloaded (Python 3+)](https://github.com/joeyagreco/ranger-reloaded)
 - [Breacher](https://github.com/s0md3v/Breacher)
 ### Wordlist Generator
 - [Cupp](https://github.com/Mebus/cupp.git)
@@ -128,7 +129,7 @@
 - [Stitch](https://nathanlopez.github.io/Stitch)
 - [MSFvenom Payload Creator](https://github.com/g0tmi1k/msfpc)
 - [Venom Shellcode Generator](https://github.com/r00t-3xp10it/venom)
-- [Spycam](https://github.com/thelinuxchoice/spycam)
+- [Spycam](https://github.com/indexnotfound404/spycam)
 - [Mob-Droid](https://github.com/kinghacker0/Mob-Droid)
 - [Enigma](https://github.com/UndeadSec/Enigma)
 ### Exploit framework
